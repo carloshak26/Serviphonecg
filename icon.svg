@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#0A0D0E"/>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="none" stroke="#00FF66" stroke-width="8" stroke-opacity="0.3"/>
+  <!-- Phone body -->
+  <rect x="146" y="76" width="220" height="360" rx="36" fill="#151C1E" stroke="#00FF66" stroke-width="12"/>
+  <!-- Screen -->
+  <rect x="166" y="116" width="180" height="260" rx="18" fill="#0D1113"/>
+  <!-- Phone speaker -->
+  <rect x="226" y="94" width="60" height="8" rx="4" fill="#00FF66" fill-opacity="0.7"/>
+  <!-- Phone Home bar / dot -->
+  <circle cx="256" cy="402" r="10" fill="#00FF66" fill-opacity="0.8"/>
+  <!-- Repair Wrench & Flash Icon inside screen -->
+  <path d="M210 180 L240 210 M230 170 C245 155 270 155 285 170 C295 180 298 195 292 208 L320 236 C326 242 326 252 320 258 L308 270 C302 276 292 276 286 270 L258 242 C245 248 230 245 220 235 C205 220 205 195 220 180 Z" fill="none" stroke="#00FF66" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neon energy pulse -->
+  <path d="M200 320 L240 270 L260 290 L300 240" fill="none" stroke="#10B981" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
